@@ -6,6 +6,7 @@
 
 
   echo "hello funsho am pushing to you"
-
+ 
+   echo "yes we are ,but pulling and pushing tho"
 
 ?>
