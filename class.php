@@ -8,5 +8,5 @@
   echo "hello funsho am pushing to you";
  
    echo "yes we are ,but pulling and pushing tho";
-
+   echo "always check your spellings,ok ?";
 ?>
