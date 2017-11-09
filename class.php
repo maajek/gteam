@@ -10,6 +10,7 @@
    echo "yes we are ,but pulling and pushing tho";
    echo "always check your spellings,ok ?";
    echo "is your box baked or still cooking"
+   echo "Omo, na die for here o";
 
 
 ?>
