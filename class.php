@@ -1,5 +1,6 @@
 <?php 
-   echo "me and funsho class work and its cool"
+
+  echo "hello funsho am pushing to you"
 
 
 ?>
